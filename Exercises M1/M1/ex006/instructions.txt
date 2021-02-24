@@ -1,0 +1,11 @@
+The Student class has three instance variables (also sometimes known as members).
+Note that these instance variables are all set as private, which means that they are not visible (in scope) to any other class, 
+including the unit test included for this exercise. In other words, these variables are encapsulated.
+
+The class already has a constructor, which takes in initial values for each of the three instance variables.
+
+Thus, you need to provide public accessors for each of the instance variables in the Student class.
+In other words, you will need 3 "getters" that "expose" the underlying values. Also, you will need to set the instance variables
+to the initial values that are passed to the constructor.
+
+
